@@ -38,6 +38,8 @@
 </div>
 <br>
 
+<hr width="100%">
+
 <div>
   <a href="https://github.com/Gunovaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gunovaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -46,6 +48,8 @@
 <br> 
     
 <img src="https://github-profile-trophy.vercel.app/?username=Gunovaes&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
+<hr width="100%">
 
 ### Contato
 <div>  

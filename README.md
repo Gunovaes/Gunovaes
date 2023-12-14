@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gustavo+Novaes+Pedroso;Eu+tenho+19+anos+de+idade!;Vivo+em+São+Paulo🌎;E+estudo+Análise+e+Desenvovimento+de+Sistemas!;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gustavo+Novaes+Pedroso;Eu+tenho+19+anos+de+idade!;Vivo+em+São+Paulo🌎;Formado+em+Análise+e+Desenvovimento+de+Sistemas!;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ### Tecnologias 
 <div style="display: inline_block"><br>
@@ -13,7 +13,7 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-  <hr width="50%">
+  <hr width="35%">
   
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <!--<img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">-->
@@ -22,11 +22,12 @@
   <img align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   
-  <hr width="50%">
+  <hr width="35%">
   <img align="center" alt="oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+<hr width="13%">
 
 <div align="center">
 <picture>
@@ -37,6 +38,13 @@
 </div>
 <br>
 
+<div>
+  <a href="https://github.com/Gunovaes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gunovaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunovaes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<br> 
+    
 <img src="https://github-profile-trophy.vercel.app/?username=Gunovaes&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
 ### Contato
